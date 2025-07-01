@@ -3,8 +3,10 @@
 Gesture Control Assistant is a desktop application that uses real-time hand gesture recognition through a webcam to control various system-level functions such as cursor movement, volume adjustment, brightness control, folder access, and media playback.
 
 This application is built using OpenCV, MediaPipe, Pycaw, and other Python libraries, and provides a graphical interface via Tkinter for ease of use.
-![WhatsApp Image 2025-07-02 at 00 38 29_2bd6e432](https://github.com/user-attachments/assets/fe9ce960-147f-456a-ad1e-4d5fef282d92)
 
+<p align="center">
+   <img src="https://github.com/user-attachments/assets/fe9ce960-147f-456a-ad1e-4d5fef282d92" alt="Add Contact" width="500"/>
+</p>
 ## Features
 
 - Cursor Control – Move the mouse using the index finger.
