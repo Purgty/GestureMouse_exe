@@ -7,6 +7,7 @@ This application is built using OpenCV, MediaPipe, Pycaw, and other Python libra
 <p align="center">
    <img src="https://github.com/user-attachments/assets/fe9ce960-147f-456a-ad1e-4d5fef282d92" alt="Add Contact" width="500"/>
 </p>
+
 ## Features
 
 - Cursor Control – Move the mouse using the index finger.
