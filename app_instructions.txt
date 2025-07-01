@@ -1,0 +1,10 @@
+🖱️  One Finger (Index): Air Mouse
+🖱️  Two Fingers (Index + Middle): Mouse Click
+🔊  Thumb + Index: Volume Control
+💡  Thumb + Pinky: Brightness Control
+📁  Index + Pinky: Open Folder
+⏸️  All Fingers Up: Spacebar Press
+
+Press "Start Tracking" to enable gesture controls.
+Press "Pause" to temporarily stop gesture tracking.
+Press "Exit" to quit the application.

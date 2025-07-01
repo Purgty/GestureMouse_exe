@@ -1,0 +1,9 @@
+opencv-python
+setuptools-rust
+numpy
+mediapipe
+autopy
+pycaw
+comtypes
+screen-brightness-control
+pyautogui
